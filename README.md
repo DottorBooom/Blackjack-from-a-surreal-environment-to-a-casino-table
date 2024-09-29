@@ -1,4 +1,4 @@
-# Blackjack-from-a-surreal-environment-to-a-casino-table
+# Blackjack from a surreal environment to a casino table
 
 ![Static Badge](https://img.shields.io/badge/Version-3.12.6-%233776AB?logo=python)
 
