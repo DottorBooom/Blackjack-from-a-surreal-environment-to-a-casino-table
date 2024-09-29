@@ -4,10 +4,10 @@
 
 ## Index
 
-[Description](#description)
-[The goal](#the-goal)
-[The foundametal strategy](##Thefoundametalstrategy)
-[How to Read the Blackjack Chart](##HowtoReadtheBlackjackChart)
+[Description](#description) <br />
+[The goal](#the-goal) <br />
+[The foundametal strategy](#the-foundametal-strategy) <br />
+[How to Read the Blackjack Chart](#how-to-read-the-blackjack-chart) <br />
 
 ## Description
 
