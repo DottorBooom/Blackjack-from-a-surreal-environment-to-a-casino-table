@@ -4,8 +4,8 @@
 
 ## Index
 
-[Description](##Description)
-[The goal](##Thegoal)
+[Description](#description)
+[The goal](#the-goal)
 [The foundametal strategy](##Thefoundametalstrategy)
 [How to Read the Blackjack Chart](##HowtoReadtheBlackjackChart)
 
