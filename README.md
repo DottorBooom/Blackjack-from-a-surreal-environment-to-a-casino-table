@@ -2,6 +2,10 @@
 
 ![Static Badge](https://img.shields.io/badge/Version-3.12.6-%233776AB?logo=python)
 
+## Index
+
+[Description](##Description)
+
 ## Description
 
 In this repository there will be an agent with q-learning algorithm that will learn to play in various environments. From the simplest with hit or stay and infinite deck to the most complex with insurance and doubling.
